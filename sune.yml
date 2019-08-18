@@ -1,0 +1,32 @@
+cube:
+  title: Sune
+  sequence: R U R’ U R U2 R’
+  faces:
+    back:
+      - yellow
+      - darkslategray
+      - darkslategray
+    left:
+      - x
+      - x
+      - x
+    top:
+      - x
+      - x
+      - x
+    middle:
+      - x
+      - x
+      - x
+    bottom:
+      - y
+      - x
+      - x
+    front:
+      - x
+      - x
+      - y
+    right:
+      - y
+      - x
+      - x

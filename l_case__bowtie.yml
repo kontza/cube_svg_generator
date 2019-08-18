@@ -1,0 +1,29 @@
+cube:
+  back:
+    - x
+    - x
+    - y
+  left:
+    - x
+    - x
+    - y
+  top:
+    - y
+    - x
+    - x
+  middle:
+    - x
+    - x
+    - x
+  bottom:
+    - x
+    - x
+    - y
+  front:
+    - x
+    - x
+    - x
+  right:
+    - x
+    - x
+    - x

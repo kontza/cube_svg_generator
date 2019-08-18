@@ -1,0 +1,32 @@
+cube:
+  title: Anti-Sune
+  sequence: R' U' R U' R' U2 R
+  faces:
+    back:
+      - x
+      - x
+      - y
+    left:
+      - x
+      - x
+      - x
+    top:
+      - y
+      - x
+      - x
+    middle:
+      - x
+      - x
+      - x
+    bottom:
+      - x
+      - x
+      - x
+    front:
+      - y
+      - x
+      - x
+    right:
+      - x
+      - x
+      - y

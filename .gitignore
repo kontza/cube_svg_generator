@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Generated SVGs
+anti_sune.svg
+h__double_headlights.svg
+j-perm.svg
+l_case__bowtie.svg
+pi__bruno.svg
+sune.svg
+t_blinkers__chameleon.svg
+u__headlights.svg
+y-perm.svg
