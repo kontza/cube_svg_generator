@@ -1,6 +1,6 @@
 cube:
-  title: Y-Perm
-  sequence: F R U' R' U' R U R' F' (R U R' U') (R' F R F')
+  title: Swap UF & UL
+  sequence: R U R’ U R U2 R’ U
   faces:
     back:
       - x
@@ -11,8 +11,8 @@ cube:
       - x
       - x
     top:
-      - y
-      - y
+      - x
+      - x
       - x
     middle:
       - y
@@ -21,10 +21,10 @@ cube:
     bottom:
       - x
       - x
-      - y
+      - x
     front:
       - x
-      - x
+      - y
       - x
     right:
       - x

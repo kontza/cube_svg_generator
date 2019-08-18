@@ -1,6 +1,6 @@
 cube:
-  title: Y-Perm
-  sequence: F R U' R' U' R U R' F' (R U R' U') (R' F R F')
+  title: ULF, URB, ULB counterclockwise
+  sequence: U R U' L' U R' U' L
   faces:
     back:
       - x
@@ -12,10 +12,10 @@ cube:
       - x
     top:
       - y
-      - y
       - x
-    middle:
       - y
+    middle:
+      - x
       - x
       - x
     bottom:

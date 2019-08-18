@@ -1,6 +1,6 @@
 cube:
-  title: Y-Perm
-  sequence: F R U' R' U' R U R' F' (R U R' U') (R' F R F')
+  title: UF, UL, UR counterclockwise
+  sequence: M2 U M U2 M' U M2
   faces:
     back:
       - x
@@ -8,25 +8,25 @@ cube:
       - x
     left:
       - x
-      - x
+      - y
       - x
     top:
-      - y
-      - y
+      - x
+      - x
       - x
     middle:
       - y
       - x
-      - x
+      - y
     bottom:
       - x
-      - x
       - y
+      - x
     front:
       - x
-      - x
+      - y
       - x
     right:
       - x
-      - x
+      - y
       - x

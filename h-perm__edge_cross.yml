@@ -1,6 +1,6 @@
 cube:
-  title: Y-Perm
-  sequence: F R U' R' U' R U R' F' (R U R' U') (R' F R F')
+  title: H-Perm, U edges swapped
+  sequence: M2' U M2' U2 M2' U M2'
   faces:
     back:
       - x
@@ -11,17 +11,17 @@ cube:
       - x
       - x
     top:
-      - y
+      - x
       - y
       - x
     middle:
       - y
       - x
-      - x
+      - y
     bottom:
       - x
-      - x
       - y
+      - x
     front:
       - x
       - x
