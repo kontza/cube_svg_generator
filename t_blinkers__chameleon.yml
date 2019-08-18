@@ -1,29 +1,32 @@
 cube:
-  back:
-    - y
-    - x
-    - x
-  left:
-    - x
-    - x
-    - x
-  top:
-    - x
-    - x
-    - y
-  middle:
-    - x
-    - x
-    - x
-  bottom:
-    - x
-    - x
-    - y
-  front:
-    - y
-    - x
-    - x
-  right:
-    - x
-    - x
-    - x
+  title: T - Blinkers, Chameleon
+  sequence: (R U R' U') R' F R F'
+  faces:
+    back:
+      - y
+      - x
+      - x
+    left:
+      - x
+      - x
+      - x
+    top:
+      - x
+      - x
+      - y
+    middle:
+      - x
+      - x
+      - x
+    bottom:
+      - x
+      - x
+      - y
+    front:
+      - y
+      - x
+      - x
+    right:
+      - x
+      - x
+      - x

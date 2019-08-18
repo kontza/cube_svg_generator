@@ -1,29 +1,32 @@
 cube:
-  back:
-    - x
-    - x
-    - y
-  left:
-    - y
-    - x
-    - y
-  top:
-    - x
-    - x
-    - x
-  middle:
-    - x
-    - x
-    - x
-  bottom:
-    - x
-    - x
-    - x
-  front:
-    - x
-    - x
-    - y
-  right:
-    - x
-    - x
-    - x
+  title: Pi - Bruno
+  sequence: F (R U R' U') (R U R' U') F'
+  faces:
+    back:
+      - x
+      - x
+      - y
+    left:
+      - y
+      - x
+      - y
+    top:
+      - x
+      - x
+      - x
+    middle:
+      - x
+      - x
+      - x
+    bottom:
+      - x
+      - x
+      - x
+    front:
+      - x
+      - x
+      - y
+    right:
+      - x
+      - x
+      - x

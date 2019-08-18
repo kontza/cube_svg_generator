@@ -1,29 +1,32 @@
 cube:
-  back:
-    - y
-    - x
-    - y
-  left:
-    - x
-    - x
-    - x
-  top:
-    - x
-    - x
-    - x
-  middle:
-    - x
-    - x
-    - x
-  bottom:
-    - x
-    - x
-    - x
-  front:
-    - y
-    - x
-    - y
-  right:
-    - x
-    - x
-    - x
+  title: H - Double Headlights
+  sequence: F (R U R' U') (R U R' U') (R U R' U') F'
+  faces:
+    back:
+      - y
+      - x
+      - y
+    left:
+      - x
+      - x
+      - x
+    top:
+      - x
+      - x
+      - x
+    middle:
+      - x
+      - x
+      - x
+    bottom:
+      - x
+      - x
+      - x
+    front:
+      - y
+      - x
+      - y
+    right:
+      - x
+      - x
+      - x

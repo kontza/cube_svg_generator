@@ -1,29 +1,32 @@
 cube:
-  back:
-    - x
-    - x
-    - x
-  left:
-    - y
-    - x
-    - y
-  top:
-    - x
-    - x
-    - y
-  middle:
-    - x
-    - x
-    - x
-  bottom:
-    - x
-    - x
-    - y
-  front:
-    - x
-    - x
-    - x
-  right:
-    - x
-    - x
-    - x
+  title: U - Headlights
+  sequence: F (R U R' U') F'
+  faces:
+    back:
+      - x
+      - x
+      - x
+    left:
+      - y
+      - x
+      - y
+    top:
+      - x
+      - x
+      - y
+    middle:
+      - x
+      - x
+      - x
+    bottom:
+      - x
+      - x
+      - y
+    front:
+      - x
+      - x
+      - x
+    right:
+      - x
+      - x
+      - x

@@ -1,6 +1,6 @@
 cube:
   title: Sune
-  sequence: R U R’ U R U2 R’
+  sequence: R U R' U R U2 R'
   faces:
     back:
       - yellow

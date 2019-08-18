@@ -1,29 +1,32 @@
 cube:
-  back:
-    - x
-    - x
-    - x
-  left:
-    - x
-    - x
-    - x
-  top:
-    - x
-    - x
-    - y
-  middle:
-    - x
-    - x
-    - x
-  bottom:
-    - x
-    - x
-    - y
-  front:
-    - x
-    - x
-    - x
-  right:
-    - x
-    - x
-    - x
+  title: J-Perm
+  sequence: R U R' F' (R U R' U') R' F R2 U' R'
+  faces:
+    back:
+      - x
+      - x
+      - x
+    left:
+      - x
+      - x
+      - x
+    top:
+      - x
+      - x
+      - y
+    middle:
+      - x
+      - x
+      - x
+    bottom:
+      - x
+      - x
+      - y
+    front:
+      - x
+      - x
+      - x
+    right:
+      - x
+      - x
+      - x
