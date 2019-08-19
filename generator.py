@@ -31,8 +31,4 @@ if __name__ == "__main__":
                     else:
                         found_piece["fill"] = piece
                     counter += 1
-            text_element = soup.find(id="title")
-            text_element.string = color_def["cube"]["title"]
-            text_element = soup.find(id="sequence")
-            text_element.string = color_def["cube"]["sequence"]
             print(soup.prettify().replace("xmlns:=", "xmlns="))
